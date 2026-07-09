@@ -1,0 +1,3 @@
+Mets ici les fichiers et dossiers du dossier config.
+Exemple : files/config/emotecraft.json
+Après ajout ou suppression : npm run build

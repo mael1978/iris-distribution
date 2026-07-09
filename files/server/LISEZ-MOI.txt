@@ -1,0 +1,2 @@
+Ici se trouve l'icone du serveur utilisée par la distribution.
+Fichier conseillé : icon.png

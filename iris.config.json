@@ -1,0 +1,10 @@
+{
+  "githubRawBase": "https://raw.githubusercontent.com/TON_COMPTE/iris-distribution/main/files",
+  "serverAddress": "play.iris.example",
+  "serverPort": 25565,
+  "minecraftVersion": "1.20.1",
+  "forgeVersion": "47.4.10",
+  "serverPackVersion": "0.1.0",
+  "recommendedRamMb": 4096,
+  "minimumRamMb": 3072
+}

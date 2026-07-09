@@ -1,0 +1,2 @@
+Mets ici les mods Forge .jar du modpack Iris.
+Après ajout ou suppression : npm run build

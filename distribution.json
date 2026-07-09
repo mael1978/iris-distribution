@@ -1,0 +1,37 @@
+{
+  "version": "1.0.0",
+  "discord": {
+    "clientId": "000000000000000000",
+    "smallImageText": "Iris Launcher",
+    "smallImageKey": "iris"
+  },
+  "rss": "https://example.invalid/iris-news-disabled.xml",
+  "servers": [
+    {
+      "id": "iris-forge-1.20.1",
+      "name": "Iris",
+      "description": "Serveur Minecraft Iris.",
+      "icon": "https://raw.githubusercontent.com/TON_COMPTE/iris-distribution/main/files/server/icon.png",
+      "version": "0.1.0",
+      "address": "play.iris.example",
+      "minecraftVersion": "1.20.1",
+      "discord": {
+        "shortId": "Iris",
+        "largeImageText": "Iris",
+        "largeImageKey": "iris"
+      },
+      "mainServer": true,
+      "autoconnect": true,
+      "javaOptions": {
+        "supported": ">=17.x <22.x",
+        "suggestedMajor": 17,
+        "distribution": "TEMURIN",
+        "ram": {
+          "recommended": 4096,
+          "minimum": 3072
+        }
+      },
+      "modules": []
+    }
+  ]
+}

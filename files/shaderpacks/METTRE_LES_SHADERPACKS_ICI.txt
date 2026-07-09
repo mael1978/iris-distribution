@@ -1,0 +1,2 @@
+Mets ici les shader packs .zip.
+Après ajout ou suppression : npm run build

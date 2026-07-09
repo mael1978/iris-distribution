@@ -1,0 +1,2 @@
+Dossier réservé si on doit plus tard ajouter des fichiers liés à la liste de serveurs.
+Normalement l'autoconnect utilise déjà l'adresse dans iris.config.json.

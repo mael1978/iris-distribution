@@ -1,0 +1,17 @@
+{
+  "name": "iris-distribution",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Distribution officielle Iris Launcher",
+  "scripts": {
+    "prepare-forge": "node tools/prepare-forge.js",
+    "build": "node tools/build-distribution.js",
+    "sync-local": "node tools/sync-local.js",
+    "local": "npm run build && npm run sync-local",
+    "full": "npm run prepare-forge && npm run build && npm run sync-local"
+  },
+  "dependencies": {
+    "adm-zip": "^0.5.16"
+  },
+  "devDependencies": {}
+}

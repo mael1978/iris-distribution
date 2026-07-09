@@ -1,0 +1,2 @@
+Mets ici les resource packs .zip.
+Après ajout ou suppression : npm run build
